@@ -1,0 +1,32 @@
+header{
+    display: flex;
+    justify-content: space-between;
+}
+
+.container{
+    margin: 0 auto;
+}
+
+
+.contain1{
+    display: flex;
+    gap: 50px;
+    
+}
+
+.contain2{
+    margin-top: -29px;
+    
+
+}
+
+.contain3{
+    display: flex;
+    gap: 20px;
+}
+
+.contain4{
+    display: flex;
+    gap: 20px;
+}
+
