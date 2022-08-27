@@ -173,3 +173,58 @@ h1{
 .d{
     width: 10%;
 }
+
+.flexbox1{
+    margin: 0 auto;
+    width: 70%;
+    font-size: 27px;
+    margin-top: 100px;
+    color: #111111;
+}
+
+.par3{
+    margin: 0 auto;
+    width: 38%;
+    margin-top: -20px;
+    margin-left: 190px;
+    color: #9A9A9A;
+    line-height: 1.4em;
+}
+
+.button2{
+    margin: 0 auto;
+    background-color: #FFC79A;
+    padding: 10px 50px;
+    border-radius: 20px;
+    margin-left: 187px;
+    margin-top: 5px;
+}
+
+.flexbox2{
+    display: flex;
+    /* margin: 0 auto; */
+    width: 40%;
+    margin-left: 180px;
+    margin-top: 40px;
+}
+
+.flexbox2 p{
+    width: 80%;
+    color: #9A9A9A;
+    font-size: smaller;
+    margin-top: -10px;
+    line-height: 1.3em;
+}
+
+.par4{
+    width: 30%;
+    border: 1px solid ;
+    margin-left: 130px;
+    padding: 20px 300px 20px 50px;
+    border-radius: 30px;
+    background-color: #FFC79A;
+    font-size: small;
+    color: #92613A;
+    line-height: 1.5em;
+    margin-top: 25px;
+}
