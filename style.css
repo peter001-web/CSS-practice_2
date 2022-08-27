@@ -174,8 +174,12 @@ h1{
     width: 10%;
 }
 
+.b{
+    margin-left: 200px;
+}
+
 .flexbox1{
-    margin: 0 auto;
+    /* margin: 0 auto; */
     width: 70%;
     font-size: 27px;
     margin-top: 100px;
@@ -183,10 +187,10 @@ h1{
 }
 
 .par3{
-    margin: 0 auto;
+    /* margin: 0 auto; */
     width: 38%;
     margin-top: -20px;
-    margin-left: 190px;
+    /* margin-left: 190px; */
     color: #9A9A9A;
     line-height: 1.4em;
 }
@@ -196,7 +200,7 @@ h1{
     background-color: #FFC79A;
     padding: 10px 50px;
     border-radius: 20px;
-    margin-left: 187px;
+    /* margin-left: 187px; */
     margin-top: 5px;
 }
 
@@ -204,7 +208,7 @@ h1{
     display: flex;
     /* margin: 0 auto; */
     width: 40%;
-    margin-left: 180px;
+    /* margin-left: 180px; */
     margin-top: 40px;
 }
 
@@ -219,7 +223,7 @@ h1{
 .par4{
     width: 30%;
     border: 1px solid ;
-    margin-left: 130px;
+    margin-left: -50px;
     padding: 20px 300px 20px 50px;
     border-radius: 30px;
     background-color: #FFC79A;
