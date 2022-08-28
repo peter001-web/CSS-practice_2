@@ -192,7 +192,7 @@ h1{
     margin-top: -20px;
     /* margin-left: 190px; */
     color: #9A9A9A;
-    line-height: 1.4em;
+    line-height: 1.2em;
 }
 
 .button2{
@@ -232,3 +232,78 @@ h1{
     line-height: 1.5em;
     margin-top: 25px;
 }
+
+.par4 img{
+    float: left;
+    width: 10%;
+    border-radius: 50px;
+    margin-top: -10px;
+}
+.par4 h5{
+    margin-left: 40px;
+}
+
+.c{
+    width: 100%;
+    margin-left: 500px;
+}
+
+.par5{
+    width: 40%;
+    border: 1px solid ;
+    margin-left: -300px;
+    padding: 20px 30px 20px 300px;
+    border-radius: 30px;
+    background-color: #86F3B8;
+    font-size: small;
+    color: gray;
+    line-height: 1.5em;
+    margin-top: 25px;
+    
+}
+
+.par5 img{
+    float: left;
+    width: 8%;
+    border-radius: 80px;
+    margin-top: -10px;
+}
+
+.par5 h5{
+    margin-left: 50px;
+}
+
+.xx{
+    margin-right: 100px;
+}
+
+.par5 p{
+    margin-left: 00px;
+}
+
+.flexbox3 p{
+    width: 80%;
+    color: #9A9A9A;
+    font-size: smaller;
+    margin-top: -10px;
+    line-height: 1.3em;
+}
+
+.flexbox3{
+    display: flex;
+    /* margin: 0 auto; */
+    width: 40%;
+    /* margin-left: 180px; */
+    margin-top: 40px;
+}
+
+.button3{
+    margin: 0 auto;
+    background-color: #86F3B8;
+    padding: 10px 50px;
+    border-radius: 20px;
+    /* margin-left: 187px; */
+    margin-top: 5px;
+}
+
+
