@@ -12,7 +12,7 @@ h1{
 }
 
 .container{
-    margin: 0 auto;
+    /* margin: 0 auto; */
 }
 
 
@@ -176,6 +176,7 @@ h1{
 
 .b{
     margin-left: 200px;
+    width: 100%;
 }
 
 .flexbox1{
@@ -338,3 +339,41 @@ h1{
     color: white;
 }
 
+
+.flexbox4{
+    display: flex;
+    border: 1px solid black;
+    padding: 20px 80px;
+    width: 60%;
+    margin-left: 160px;
+    border-radius: 50px;
+    margin-top: 100px;
+}
+
+.flex6 p{
+    width: 80%;
+    line-height: 1.3em;
+    margin-top: -9px;
+    color: #9A9A9A;
+}
+
+.flex6 h3{
+    font-size: 30px;
+    width: 50%;
+}
+
+.flex7{
+    display: flex;
+    gap: 60px;
+}
+
+.flex7 h2{
+    width: 50%;
+    font-size: 80px;
+}
+
+.flex7 h5{
+    font-size: smaller;
+    color: #9A9A9A;
+    margin-top: -60px;
+}
