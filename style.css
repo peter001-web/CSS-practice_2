@@ -306,4 +306,35 @@ h1{
     margin-top: 5px;
 }
 
+.par6{
+    background-color: #4A6EFC;
+    width: 40%;
+    border: 1px solid ;
+    margin-left: -50px;
+    padding: 20px 300px 20px 50px;
+    border-radius: 30px;
+    font-size: small;
+    line-height: 1.5em;
+    margin-top: 25px;
+    color: white;
+}
+
+.par6 img{
+    float: left;
+    width: 10%;
+    border-radius: 50px;
+    margin-top: -10px;
+}
+.par6 h5{
+    margin-left: 60px;
+}
+
+.button4{
+    margin: 0 auto;
+    background-color: #4A6EFC;
+    padding: 10px 50px;
+    border-radius: 20px;
+    margin-top: 5px;
+    color: white;
+}
 
