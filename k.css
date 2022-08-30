@@ -467,6 +467,8 @@ h1{
     margin-left: 100px;
     width: 90%;
     margin: auto;
+    margin-top: 30px;
+
 }
 
 .flexbox5a{
@@ -579,28 +581,49 @@ h1{
     margin-left: 40px;
 }
 
-.flexbox6a{
-    /* width:40% ; */
-    /* margin-right:100px ; */
+.flexbox6{
+    display: flex;
+    border: 1px solid black;
+    width: 66%;
+    margin-left: 190px;
+    border-radius: 40px;
+    margin-bottom: 50px;
+    padding-bottom:30px;
+    margin-top: 30px;
+
 }
 
-/* .buttonx{
-    background-color: #F9E054;
-    padding: 5px 30px;
-    border-radius: 12px;
+.f{
     width: 100%;
-} */
+    display: flex;
+}
 
- .flexbox6a button{
+.flexbox6 h2{
+    width: 50%;
+    margin-left: 80px;
+    font-size: 40px;
+    color: #3a3838;
+    margin-top: 29px;
+}
+
+.flexbox6a button{
     background-color: #F9E054;
     margin-top: 25px;
-    padding: 15px 60px;
-    border-radius: 10px;
+    padding: 14px 70px;
+    border-radius: 11px;
 }
 
 .flexbox6a{
-    margin-right: 100px;
-} 
+    /* margin-left: 90px; */
+    margin-left:-290px ;
+    margin-top: 20px;
+}
+
+.f p{
+    margin-left: 70px;
+    font-size: smaller;
+    color: #888888;
+}
 
 
 
