@@ -1,5 +1,8 @@
+*{
+    border: 1px solid red;
+}
 body{
-    width: 95%;
+    width: 100%;
     /* border: 3px solid red; */
 }
 
@@ -180,7 +183,7 @@ h1{
 }
 
 .b{
-    margin-left: 200px;
+    /* margin-left: 200px; */
     width: 100%;
 }
 
@@ -250,17 +253,15 @@ h1{
 }
 
 .c{
-    width: 100%;
-    margin-left: 500px;
-    /* border: 3px solid red; */
+    /* width: 100%; */
+    border: 3px solid red;
 }
-
 
 .par5{
     width: 40%;
     border: 1px solid ;
-    margin-left: -300px;
-    padding: 20px 30px 20px 300px;
+    /* margin-left: -300px; */
+    /* padding: 20px 30px 20px 300px; */
     border-radius: 30px;
     background-color: #86F3B8;
     font-size: small;
@@ -338,7 +339,7 @@ h1{
 }
 
 .button4{
-    margin: 0 auto;
+    /* margin: 0 auto; */
     background-color: #4A6EFC;
     padding: 10px 50px;
     border-radius: 20px;
@@ -389,7 +390,7 @@ h1{
 .flexbox5{
     display: flex;
     margin-top: 50px;
-    margin-left: 150px;
+    /* margin-left: 150px; */
     width: 95%;
 }
 
