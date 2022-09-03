@@ -72,7 +72,7 @@ body{
 
 .par-D img{
     float: left;
-    /* width: 8%; */
+    width: 8%;
     border-radius: 80px;
     margin-top: -10px;
 }
@@ -224,14 +224,14 @@ body{
 
 .par-E img{
     float: left;
-    width: 8%;
+    width: 9%;
     border-radius: 80px;
-    margin-top: -11px;
+    margin-top: -9px;
 }
 
 .par-E h5{
     margin-left: 50px;
-    margin-top: 15px;
+    margin-top: 20x;
 }
 
 .yy{
