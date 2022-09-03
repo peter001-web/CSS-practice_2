@@ -87,26 +87,24 @@ body{
 }
 
 
-.d{
+.flexbox-A{
     margin-left: 300px;
-    /* width: 100%; */
     margin-top: 120px;
-    /* margin: auto; */
 }
 
-.d1 h2{
+.flexbox-A1 h2{
     font-size: 40px;
     width: 100%;
 }
 
-.d1 p{
+.flexbox-A1 p{
     width: 45%;
     line-height: 1.3em;
     margin-top: 10px;
     color: #888888;
 }
 
-.d1 button{
+.flexbox-A1 button{
     margin-top: 25px;
     background-color: #FFC79A;
     padding: 10px 50px;
@@ -321,7 +319,8 @@ h1{
     margin-top: 20px;
 }
 
-.par2{
+
+.par-B{
     text-align: center;
     margin-top: 20px;
     color: #9A9A9A;
