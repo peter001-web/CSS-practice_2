@@ -81,9 +81,10 @@ body{
     margin-left: 50px;
 }
 
-.Profile-B{
+.Profile-B img{
     /* margin-right: 100px; */
-    margin-top: 10px;
+    /* margin-top: 10px; */
+    width: 9%;
 }
 
 
@@ -221,14 +222,14 @@ body{
 
 
 
-.parE img{
+.par-E img{
     float: left;
     width: 8%;
     border-radius: 80px;
-    margin-top: -5px;
+    margin-top: -11px;
 }
 
-.parE h5{
+.par-E h5{
     margin-left: 50px;
     margin-top: 15px;
 }
