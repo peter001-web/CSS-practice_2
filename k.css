@@ -46,12 +46,12 @@ body{
     color: #888888;
 }
 
-.k{
+.flexbox-D3{
     margin-left: -300px;
 }
 
 
-.par5{
+.par-D{
     width: 60%;
     border: 1px solid ;
     margin-left: -400px;
@@ -65,23 +65,23 @@ body{
     /* margin-left: -400px; */
 }
 
-.par5 p{
+.par-D p{
     width: 100%;
     /* text-align: center; */
 }
 
-.par5 img{
+.par-D img{
     float: left;
     /* width: 8%; */
     border-radius: 80px;
     margin-top: -10px;
 }
 
-.par5 h5{
+.par-D h5{
     margin-left: 50px;
 }
 
-.xx{
+.Profile-B{
     /* margin-right: 100px; */
     margin-top: 10px;
 }
@@ -165,24 +165,24 @@ body{
 
 
 
-.e{
+.flexbox-E{
     margin-left: 300px;
     margin-top: 80px;
     /* margin: auto; */
 }
 
-.e1 h2{
+.flexbox-E1 h2{
     font-size: 40px;
 }
 
-.e1 p{
+.flexbox-E1 p{
     width: 45%;
     line-height: 1.3em;
     margin-top: 10px;
     color: #888888;
 }
 
-.e1 button{
+.flexbox-E1 button{
     margin-top: 25px;
     background-color: #4A6EFC;
     padding: 10px 50px;
@@ -190,22 +190,22 @@ body{
     color: white;
 }
 
-.e2{
+.flexbox-E2{
     display: flex;
     margin-top: 70px;
     margin-bottom: 50px;
 }
 
-.e2 p{
+.flexbox-E2 p{
     width: 30%;
     color: #888888;
 }
 
-.e3{
+.flexbox-E3{
     margin-left: -450px;
 }
 
-.par7{
+.par-E{
     width: 40%;
     border: 1px solid ;
     margin-left: -70px;
@@ -221,14 +221,14 @@ body{
 
 
 
-.par7 img{
+.parE img{
     float: left;
     width: 8%;
     border-radius: 80px;
     margin-top: -5px;
 }
 
-.par7 h5{
+.parE h5{
     margin-left: 50px;
     margin-top: 15px;
 }
@@ -424,7 +424,7 @@ h1{
 }
 
 
-.flexbox4{
+.flexbox-F{
     display: flex;
     border: 1px solid black;
     padding: 30px 80px;
@@ -436,29 +436,29 @@ h1{
     margin-top: 110px;
 }
 
-.flex6 p{
+.flexbox-F1 p{
     width: 80%;
     line-height: 1.3em;
     margin-top: 9px;
     color: #9A9A9A;
 }
 
-.flex6 h3{
+.flexbox-F1 h3{
     font-size: 30px;
     width: 50%;
 }
 
-.flex7{
+.flexbox-F2{
     display: flex;
     gap: 60px;
 }
 
-.flex7 h2{
+.flexbox-F2 h2{
     width: 50%;
     font-size: 80px;
 }
 
-.flex7 h5{
+.flexbox-F h5{
     font-size: smaller;
     color: #9A9A9A;
     margin-top: -60px;
@@ -576,6 +576,7 @@ h1{
     width: 66%;
     padding: 20px 30px;
     border-radius: 30px;
+    margin-top: 20PX;
 }
 
 .flexbox6 h2{
