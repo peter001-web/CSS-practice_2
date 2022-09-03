@@ -67,12 +67,12 @@ body{
 
 .par5 p{
     width: 100%;
-    text-align: center;
+    /* text-align: center; */
 }
 
 .par5 img{
     float: left;
-    width: 8%;
+    /* width: 8%; */
     border-radius: 80px;
     margin-top: -10px;
 }
@@ -145,20 +145,20 @@ body{
 
 
 .par6 img{
-    float: left;
+    /* float: left; */
     width: 8%;
     border-radius: 80px;
-    margin-top: -5px;
+    margin-top: 5px;
 }
 
 .par6 h5{
-    margin-left: 50px;
-    margin-top: 15px;
+    margin-left: 40px;
+    margin-top: -27px;
 }
 
 .xy{
     /* margin-right: 100px; */
-    margin-top: 10px;
+    /* margin-top: 10px; */
 }
 
 
@@ -264,7 +264,7 @@ h1{
 }
 
 
-.contain1{
+.contain-header{
     display: flex;
     gap: 60px;
     font-size: small;
@@ -272,16 +272,16 @@ h1{
     /* margin-top: 30px; */
 }
 
-.contain1 h2{
+.contain-header h2{
     margin-bottom: 10px;
     /* margin-top: 10px; */
 }
 
-.contain2{
+.contain-A{
     margin-top: -15px;
 }
 
-.contain3{
+.contain-B{
     display: flex;
     gap: 20px;
     color: #414040;
@@ -289,7 +289,7 @@ h1{
     margin-top: 5px;
 }
 
-.contain4{
+.contain-C{
     display: flex;
     gap: 20px;
     color: #414040;
@@ -462,7 +462,7 @@ h1{
 .flex7 h5{
     font-size: smaller;
     color: #9A9A9A;
-    /* margin-top: -60px; */
+    margin-top: -60px;
 }
 
 .flexbox5{
@@ -638,14 +638,14 @@ footer{
 .p{
     /* margin-top: 10px; */
     color: white;
-    /* margin-top: 39px; */
+    margin-top: 39px;
 }
 
 
 .p h4{
-    /* font-size: 11px; */
-    /* margin-top: -30px; */
-    /* margin-left: 2px; */
+    font-size: 12px;
+    margin-top: -30px;
+    margin-left: 2px;
 }
 
 .p h3{
