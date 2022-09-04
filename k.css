@@ -7,41 +7,41 @@ body{
     width: 100%;
 }
 
-.c{
+.flexbox-D{
     margin-left: 600px;
     margin-top: 80px;
     /* margin: auto; */
 }
 
-.c h2{
+.flexbox-D h2{
     font-size: 40px;
 }
 
 
-.a p{
+.flexbox-D1 p{
     width: 50%;
     margin-top: 10px;
     color: #888888;
 } 
 
-.a h2{
+.flexbox-D1 h2{
     margin-top: 30px;
 }
 
-.a button{
+.flexbox-D1  button{
     margin-top: 25px;
     background-color: #86F3B8;
     padding: 10px 50px;
     border-radius: 20px;
 }
 
-.b{
+.flexbox-D2 {
     display: flex;
     margin-top: 70px;
     margin-bottom: 50px;
 }
 
-.b p{
+.flexbox-D2  p{
     width: 40%;
     color: #888888;
 }
@@ -111,22 +111,22 @@ body{
     border-radius: 20px;
 }
 
-.d2{
+.flexbox-B{
     display: flex;
     margin-top: 70px;
     margin-bottom: 50px;
 }
 
-.d2 p{
+.flexbox-B p{
     width: 45%;
     color: #888888;
 }
 
-.d3{
+.flexbox-C{
     margin-left: -300px;
 }
 
-.par6{
+.par-C{
     width: 40%;
     border: 1px solid ;
     margin-left: -70px;
@@ -142,19 +142,19 @@ body{
 
 
 
-.par6 img{
+.par-C img{
     /* float: left; */
     width: 8%;
     border-radius: 80px;
     margin-top: 5px;
 }
 
-.par6 h5{
+.par-C h5{
     margin-left: 40px;
     margin-top: -27px;
 }
 
-.xy{
+.Profile-A{
     /* margin-right: 100px; */
     /* margin-top: 10px; */
 }
