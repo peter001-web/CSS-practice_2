@@ -1,7 +1,14 @@
 *{
     /* margin: 0; */
-    /* border: 1px solid red; */
 }
+
+.img1{
+    width: 100%;
+    border: 1px solid red;
+    /* height: 20%; */
+
+}
+
 
 body{
     width: 100%;
