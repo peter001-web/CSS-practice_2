@@ -230,7 +230,6 @@ body{
 
 body{
     width: 100%;
-    /* border: 3px solid red; */
 }
 
 header{
@@ -242,7 +241,6 @@ header{
 
 h1{
     margin-top: 60px;
-    /* border: 3px solid red; */
 }
 
 
@@ -256,12 +254,10 @@ h1{
     gap: 60px;
     font-size: small;
     margin-left: 40px;
-    /* margin-top: 30px; */
 }
 
 .contain-header h2{
     margin-bottom: 10px;
-    /* margin-top: 10px; */
 }
 
 .contain-A{
@@ -375,7 +371,6 @@ h1{
 
 .flex5{
     line-height: 1.4em;
-    /* margin-top:20px; */
 }
 
 .flex5A{
@@ -500,7 +495,6 @@ h1{
     border-radius: 20px;
     padding: 20px 20px;
     width: 20%;
-    /* margin-left: 40px; */
 }
 
 .flexbox5b img{
@@ -607,7 +601,6 @@ h1{
 }
 
 .flexbox6a{
-    /* margin-left: 90px; */
     margin-left:-290px ;
     margin-top: 20px;
 }
@@ -625,7 +618,6 @@ footer{
 }
 
 .p{
-    /* margin-top: 10px; */
     color: white;
     margin-top: 39px;
 }
@@ -684,7 +676,6 @@ footer{
 .ic img{
     width:10%;
     border: px solid black;
-    /* padding: 1px 1px; */
     background-color: white;
     border-radius: 10px;
 }
