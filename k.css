@@ -67,7 +67,6 @@ body{
 
 .par-D p{
     width: 100%;
-    /* text-align: center; */
 }
 
 .par-D img{
@@ -82,8 +81,6 @@ body{
 }
 
 .Profile-B img{
-    /* margin-right: 100px; */
-    /* margin-top: 10px; */
     width: 9%;
 }
 
@@ -131,7 +128,6 @@ body{
     width: 40%;
     border: 1px solid ;
     margin-left: -70px;
-    /* margin-right: -300px; */
     padding: 20px 300px 20px 70px;
     border-radius: 30px;
     background-color: #FFC79A;
@@ -144,7 +140,6 @@ body{
 
 
 .par-C img{
-    /* float: left; */
     width: 8%;
     border-radius: 80px;
     margin-top: 5px;
@@ -155,10 +150,6 @@ body{
     margin-top: -27px;
 }
 
-.Profile-A{
-    /* margin-right: 100px; */
-    /* margin-top: 10px; */
-}
 
 
 
@@ -169,7 +160,6 @@ body{
 .flexbox-E{
     margin-left: 300px;
     margin-top: 80px;
-    /* margin: auto; */
 }
 
 .flexbox-E1 h2{
@@ -210,7 +200,6 @@ body{
     width: 40%;
     border: 1px solid ;
     margin-left: -70px;
-    /* margin-right: -300px; */
     padding: 20px 400px 20px 70px;
     border-radius: 30px;
     background-color: #4A6EFC;
@@ -235,7 +224,6 @@ body{
 }
 
 .yy{
-    /* margin-right: 100px; */
     margin-top: 10px;
 }
 
